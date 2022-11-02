@@ -8,10 +8,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   9 hrs 22 mins   ██████████████▓░░░░░░░░░░   59.12 %
-Vue.js       3 hrs 8 mins    █████░░░░░░░░░░░░░░░░░░░░   19.87 %
-GraphQL      1 hr 47 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
-Other        26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+JavaScript   6 hrs 33 mins   █████████████████▓░░░░░░░   70.74 %
+GraphQL      1 hr 39 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
+Other        20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
 ```
 
 <!--END_SECTION:waka-->
