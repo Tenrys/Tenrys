@@ -8,9 +8,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 56 mins    ████████████████░░░░░░░░░   63.48 %
-GraphQL      53 mins         ███████▒░░░░░░░░░░░░░░░░░   29.32 %
-Other        10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+JavaScript   1 hr 50 mins    ███████████░░░░░░░░░░░░░░   44.22 %
+Markdown     1 hr 17 mins    ███████▓░░░░░░░░░░░░░░░░░   31.15 %
+GraphQL      53 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.53 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
 
 <!--END_SECTION:waka-->
