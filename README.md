@@ -30,9 +30,18 @@ Other        3 hrs 3 mins    ████░░░░░░░░░░░░░
 
 ### All time
 <!--START_SECTION:wakaTotal-->
+
+```text
+Total Time: 1,382 hrs 29 mins
+
+Vue.js                             ████████▒░░░░░░░░░░░░░░░░   33.92 %
+JavaScript                         ███████▓░░░░░░░░░░░░░░░░░   31.11 %
+Python                             █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+JSON                               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+GraphQL                            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+TypeScript                         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
 ```
-Not yet Snake...
-```
+
 <!--END_SECTION:wakaTotal-->
 
 ## Socials
