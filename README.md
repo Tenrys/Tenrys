@@ -17,7 +17,7 @@ Happy to make your acquaintance, feel free to check me out on my other profiles 
 - [💻 Freelance on GmodStore](https://www.gmodstore.com/users/Tenrys)
 
 ### Weekly
-<!--START_SECTION:waka-weekly-->
+<!--START_SECTION:wakaWeekly-->
 
 ```text
 TypeScript   7 hrs 13 mins   ██████████░░░░░░░░░░░░░░░   40.45 %
@@ -25,14 +25,14 @@ JSON         2 hrs 32 mins   ███▓░░░░░░░░░░░░░
 Other        2 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
 ```
 
-<!--END_SECTION:waka-weekly-->
+<!--END_SECTION:wakaWeekly-->
 
 ### All time
-<!--START_SECTION:waka-total-->
+<!--START_SECTION:wakaTotal-->
 ```
 Not yet Snake...
 ```
-<!--END_SECTION:waka-total-->
+<!--END_SECTION:wakaTotal-->
 
 ## Socials
 
