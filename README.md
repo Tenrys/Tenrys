@@ -31,4 +31,7 @@ Other        2 hrs 24 mins   ███▒░░░░░░░░░░░░░
 
 ### All time
 <!--START_SECTION:waka-total-->
+```
+Not yet Snake...
+```
 <!--END_SECTION:waka-total-->
