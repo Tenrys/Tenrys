@@ -22,11 +22,9 @@ Happy to make your acquaintance, feel free to check me out on my other profiles 
 ```text
 Total Time: 50 mins
 
-TypeScript   41 mins         ████████████████████░░░░░   80.11 %
-INI          4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-Markdown     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-C++          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+TypeScript   41 mins         ██████████████████▓░░░░░░   74.05 %
+INI          4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+Other        4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
 ```
 
 <!--END_SECTION:wakaWeekly-->
