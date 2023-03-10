@@ -20,11 +20,14 @@ Happy to make your acquaintance, feel free to check me out on my other profiles 
 <!--START_SECTION:wakaWeekly-->
 
 ```text
-Total Time: 50 mins
+Total Time: 8 hrs 43 mins
 
-TypeScript   41 mins         ██████████████████▓░░░░░░   74.05 %
-INI          4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
-Other        4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
+TypeScript   5 hrs 59 mins   ████████████████▓░░░░░░░░   66.83 %
+Bash         1 hr 8 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
+JavaScript   49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
+Docker       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Markdown     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
 ```
 
 <!--END_SECTION:wakaWeekly-->
