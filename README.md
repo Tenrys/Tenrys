@@ -20,13 +20,13 @@ Happy to make your acquaintance, feel free to check me out on my other profiles 
 <!--START_SECTION:wakaWeekly-->
 
 ```text
-Total Time: 12 hrs 27 mins
+Total Time: 13 hrs 56 mins
 
-Vue.js       7 hrs 39 mins   ██████████████░░░░░░░░░░░   55.59 %
-TypeScript   2 hrs 29 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
-Other        1 hr 18 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
-JavaScript   1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-JSON         52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+Vue.js       9 hrs 42 mins   ███████████████▓░░░░░░░░░   63.28 %
+JavaScript   1 hr 49 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
+Other        1 hr 24 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
+TypeScript   1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+JSON         53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
 ```
 
 <!--END_SECTION:wakaWeekly-->
