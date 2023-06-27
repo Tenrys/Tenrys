@@ -20,12 +20,10 @@ Happy to make your acquaintance, feel free to check me out on my other profiles 
 <!--START_SECTION:wakaWeekly-->
 
 ```txt
-Total Time: 55 mins
+Total Time: 1 min
 
-Markdown   54 mins         ████████████████▓░░░░░░░░   66.73 %
-Other      25 mins         ████████░░░░░░░░░░░░░░░░░   31.50 %
-ERB        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+ERB   1 min           ████████████████████░░░░░   80.34 %
+CSS   0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.66 %
 ```
 
 <!--END_SECTION:wakaWeekly-->
