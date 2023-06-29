@@ -20,10 +20,12 @@ Happy to make your acquaintance, feel free to check me out on my other profiles 
 <!--START_SECTION:wakaWeekly-->
 
 ```txt
-Total Time: 1 min
+Total Time: 38 mins
 
-ERB   1 min           ████████████████████░░░░░   80.34 %
-CSS   0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.66 %
+Ruby         26 mins         █████████████████░░░░░░░░   68.09 %
+CSS          8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.67 %
+SSH Config   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:wakaWeekly-->
