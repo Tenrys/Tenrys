@@ -12,7 +12,7 @@ Happy to make your acquaintance, feel free to check me out on my other profiles 
 
 ### Currently
 
-- [🏢 Lead Web Developer at Homki Immobilier](https://homki-immobilier.com)
+- [🏢 Chief Technology Officer at Homki Immobilier](https://homki-immobilier.com)
 - [🎈 Developer for Meta Construct](https://metastruct.net)
 - [💻 Freelance on GmodStore](https://www.gmodstore.com/users/Tenrys)
 
