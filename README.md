@@ -23,7 +23,7 @@ Happy to make your acquaintance, feel free to check me out on my other profiles 
 Total Time: 14 hrs 53 mins
 
 TypeScript   7 hrs 51 mins   █████████████░░░░░░░░░░░░   52.05 %
-HTML         3 hrs 20 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.18 %
+HTML         3 hrs 20 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.17 %
 Vue.js       1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
 JavaScript   55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
 Assembly     17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
