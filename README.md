@@ -22,8 +22,8 @@ Happy to make your acquaintance, feel free to check me out on my other profiles 
 ```txt
 Total Time: 10 hrs 8 mins
 
-Vue.js           6 hrs 58 mins   █████████████████░░░░░░░░   68.41 %
-JavaScript       1 hr 46 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.45 %
+Vue.js           6 hrs 58 mins   █████████████████░░░░░░░░   68.43 %
+JavaScript       1 hr 46 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
 TypeScript       43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
 Markdown         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 JSON             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
